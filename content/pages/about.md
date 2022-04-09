@@ -7,15 +7,11 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Mi mundo gravita alrededor de Internet. Desde pequeña, me ha apasionado ser testigo de lo mucho que ha transformado nuestras vidas y nada me emociona más que llegar a ser parte del grupo que hace posible esa aceleración a pasos agigantados. Mi lema es “Lo que desconozco, lo aprendo” porque el motor de mi vida es enfrentarme a grandes desafíos que me hagan crecer como persona y como profesional.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Mi Stack:
+• HTML5
+• CSS3 + Bootstrap
+• Vanilla JavaScript
+• Java 8
+• MySQL
